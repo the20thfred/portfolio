@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
-        20th <img src="" alt="Netlify Logo" className={styles.logo} /> 
+        20th <img src="" alt=" Logo" className={styles.logo} /> 
       </footer>
     </>
   )
