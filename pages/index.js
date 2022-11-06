@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="under construction!" />
+        <Header title=" Fred's Portfolio is Under construction!" />
         <p className="description">
            <code></code>
         </p>
