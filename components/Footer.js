@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
-        20th <img src="" alt=" Logo" className={styles.logo} /> 
+        20th <img src="public/IMG_0090.jpg" alt=" Logo" className={styles.logo} /> 
       </footer>
     </>
   )
